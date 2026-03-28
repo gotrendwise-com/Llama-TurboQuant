@@ -1,0 +1,1 @@
+download any gguf format ai model and put in this folder
