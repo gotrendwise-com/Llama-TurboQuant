@@ -1,0 +1,15 @@
+This project includes components from the following open source projects:
+
+## llama.cpp
+- License: MIT
+- Copyright: Georgi Gerganov
+- Repository: https://github.com/ggerganov/llama.cpp
+
+## ggml
+- License: MIT
+- Copyright: Georgi Gerganov
+- Repository: https://github.com/ggml-org/ggml
+
+## Llama TurboQuant
+- License: MIT
+- Copyright: 2026 Llama TurboQuant Contributors
